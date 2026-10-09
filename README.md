@@ -84,11 +84,13 @@ Each random option selects a supported value for that setting at the start of a 
 ## Screenshots
 
 <p align="center">
-    <img src="docs/screenshots/perseid-passage-android-tv-1920.png" alt="Perseid Passage running on an Android TV emulator at 1920 by 1080 with animated meteor trails and a deep space background" width="49%">
-    <img src="docs/screenshots/settings-android-tv-1920.png" alt="Perseid Passage remote-friendly settings on an Android TV emulator at 1920 by 1080" width="49%">
+    <img src="docs/screenshots/perseid-passage-android-tv-1920.png" alt="Perseid Passage running on an Android TV emulator at 1920 by 1080 with animated meteor trails and a deep space background" width="720">
+</p>
+<p align="center">
+    <img src="docs/screenshots/settings-android-tv-1920.png" alt="Perseid Passage remote-friendly settings on an Android TV emulator at 1920 by 1080" width="720">
 </p>
 
-The image was captured from the running app on the Android TV emulator. Device details and limitations are recorded in [verification](docs/VERIFICATION.md).
+Both screenshots were captured from the running app on the Android TV emulator. Device details and limitations are recorded in [verification](docs/VERIFICATION.md).
 
 ## Fire TV Toolkit
 
