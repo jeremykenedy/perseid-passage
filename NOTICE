@@ -1,0 +1,6 @@
+Perseid Passage
+Copyright 2026 Jeremy Kenedy
+
+Portions of the installer, settings screen, settings provider, and DreamService lifecycle structure are adapted from Starfield Drift, Copyright 2026 Jeremy Kenedy, available at https://github.com/jeremykenedy/starfield-drift. Those portions are licensed under the Apache License, Version 2.0 and were modified for Perseid Passage.
+
+The meteor rendering, palettes, app icon, and banner are original to Perseid Passage. No third-party visual assets or runtime libraries are included.

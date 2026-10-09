@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-labelledby="title description">
+  <title id="title">Perseid Passage</title>
+  <desc id="description">An animated meteor shower screensaver with no tracking or analytics.</desc>
+  <rect width="800" height="200" rx="16" fill="#fff" stroke="#e5e7eb"/>
+  <text x="48" y="78" fill="#0f172a" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="40" font-weight="700" letter-spacing="-.5">Perseid Passage</text>
+  <text x="50" y="108" fill="#64748b" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14">A living meteor shower for your TV. No tracking or analytics.</text>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" font-weight="500" text-anchor="middle">
+    <rect x="49" y="130" width="98" height="22" rx="11" fill="#eff6ff" stroke="#93c5fd" stroke-width=".8"/><text x="98" y="145" fill="#1e40af">Continuous motion</text>
+    <rect x="155" y="130" width="92" height="22" rx="11" fill="#f5f3ff" stroke="#c4b5fd" stroke-width=".8"/><text x="201" y="145" fill="#6d28d9">Remote settings</text>
+    <rect x="255" y="130" width="118" height="22" rx="11" fill="#f0fdf4" stroke="#86efac" stroke-width=".8"/><text x="314" y="145" fill="#166534">Offline rendering</text>
+  </g>
+  <g transform="translate(575 35)">
+    <circle cx="108" cy="65" r="72" fill="#eff6ff"/>
+    <circle cx="65" cy="24" r="2" fill="#60a5fa"/><circle cx="169" cy="42" r="2.4" fill="#6366f1"/><circle cx="153" cy="112" r="1.8" fill="#8b5cf6"/>
+    <path d="M36 126 144 22 92 137l-13-58z" fill="#3b82f6" opacity=".78"/>
+    <circle cx="145" cy="22" r="5" fill="#f59e0b"/>
+    <path d="M23 139 132 34" stroke="#93c5fd" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+  </g>
+</svg>
